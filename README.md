@@ -1,5 +1,5 @@
 # Real-Project-Cs-Database-SqlServer
-This is Windows Form App using c# & Database SqlServer 
+This is WindowsForm Application(Desktop Application) using c# & Database SqlServer 
 1/First step to open this project
 open Project File
 Then
